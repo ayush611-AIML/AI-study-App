@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.expo/
+server/uploads/*
+!server/uploads/.gitkeep
+npm-debug.log*
+Thumbs.db
